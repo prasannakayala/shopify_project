@@ -1,0 +1,13 @@
+.orders-container{
+    min-height: 75vh;
+    background-color: #fff;
+    padding: 30px;    
+}
+.pdf-card{
+    padding: 30px;
+    background-color: white;
+    max-width: 500px;
+    border-style: "10px solid black";
+    margin: 10px auto;
+    height: auto;
+}

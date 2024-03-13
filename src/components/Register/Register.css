@@ -1,0 +1,11 @@
+.register-container{
+    background-color: #ffffff;
+    min-height: 75vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+.form-control {
+    width: 100%;
+}

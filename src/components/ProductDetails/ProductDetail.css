@@ -1,0 +1,24 @@
+.detail-container{
+    min-height: 75vh;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inner-container {
+    background-color: #F5F4FC;
+    padding: 15px;
+    margin: 40px;
+}
+
+.product-name {
+    font-size: 20px;
+}
+@media screen and (max-width: 992px) {
+    .product-name {
+        margin-top: 20px;
+    }
+    /* .product-img{
+        width: 450px;
+    } */
+}
